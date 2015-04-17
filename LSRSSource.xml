@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of ls from Inoreader [http://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="DistroNews" title="DistroNews">
+      <outline text="Planet Python" title="Planet Python" type="rss" xmlUrl="http://planet.python.org/rss10.xml" htmlUrl="http://planetpython.org/"/>
+      <outline text="Planet Arch Linux" title="Planet Arch Linux" type="rss" xmlUrl="http://planet.archlinux.org/atom.xml" htmlUrl="https://planet.archlinux.org/"/>
+      <outline text="Recent blog posts" title="Recent blog posts" type="rss" xmlUrl="http://static.fsf.org/fsforg/rss/blogs.xml" htmlUrl="http://www.fsf.org/blogs/recent-blog-posts"/>
+      <outline text="Planet GNU" title="Planet GNU" type="rss" xmlUrl="http://planet.gnu.org/rss20.xml" htmlUrl="http://planet.gnu.org/"/>
+      <outline text="Planet GNOME" title="Planet GNOME" type="rss" xmlUrl="http://planet.gnome.org/rss20.xml" htmlUrl="http://planet.gnome.org/"/>
+      <outline text="Debian GNU/Linux System Administration Resources" title="Debian GNU/Linux System Administration Resources" type="rss" xmlUrl="http://www.debian-administration.org/atom.xml" htmlUrl="http://www.debian-administration.org/"/>
+      <outline text="Planet KDE" title="Planet KDE" type="rss" xmlUrl="http://planetkde.org/rss20.xml" htmlUrl="http://planetkde.org/"/>
+      <outline text="Planet Ubuntu" title="Planet Ubuntu" type="rss" xmlUrl="http://planet.ubuntulinux.org/rss20.xml" htmlUrl="http://planet.ubuntu.com/"/>
+      <outline text="DistroWatch.com" title="DistroWatch.com" type="rss" xmlUrl="http://distrowatch.com/news/dw.xml" htmlUrl="http://distrowatch.com/"/>
+      <outline text="OMG! Ubuntu!" title="OMG! Ubuntu!" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk/"/>
+      <outline text="News" title="News" type="rss" xmlUrl="http://static.fsf.org/fsforg/rss/news.xml" htmlUrl="http://www.fsf.org/news/aggregator"/>
+    </outline>
+    <outline text="EN news2" title="EN news2">
+      <outline text="Linuxtoday.com" title="Linuxtoday.com" type="rss" xmlUrl="http://linuxtoday.com/backend/biglt.rss" htmlUrl="http://www.linuxtoday.com/"/>
+      <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="http://lwn.net/headlines/newrss" htmlUrl="http://lwn.net/"/>
+      <outline text="Opensource.com" title="Opensource.com" type="rss" xmlUrl="http://opensource.com/feed" htmlUrl="http://opensource.com/frontpage"/>
+    </outline>
+    <outline text="Open Source供参考" title="Open Source供参考">
+      <outline text="IBM developerWorks 中国 : Linux : Articles,Tutorials" title="IBM developerWorks 中国 : Linux : Articles,Tutorials" type="rss" xmlUrl="http://www.ibm.com/developerworks/cn/views/rss/customrssatom.jsp?zone_by=Linux&amp;type_by=Articles&amp;type_by=Tutorials&amp;search_by=&amp;max_entries=50&amp;feed_by=rss" htmlUrl="http://www.ibm.com/developerworks/cn/"/>
+      <outline text="编程随想的博客" title="编程随想的博客" type="rss" xmlUrl="http://feeds.feedburner.com/programthink?format=xml" htmlUrl="http://program-think.blogspot.com/"/>
+      <outline text="IBM developerWorks 中国 : 文档库" title="IBM developerWorks 中国 : 文档库" type="rss" xmlUrl="http://www.ibm.com/developerworks/cn/views/global/rss/libraryview.jsp?end=25" htmlUrl="http://www.ibm.com/developerworks/cn/"/>
+      <outline text="IBM developerWorks 中国 : Information management,Linux,,Open source : 技术文章,教程" title="IBM developerWorks 中国 : Information management,Linux,,Open source : 技术文章,教程" type="rss" xmlUrl="http://www.ibm.com/developerworks/cn/views/rss/customrssatom.jsp?zone_type=SixZones&amp;zone_by=DB2&amp;zone_by=Linux&amp;zone_by=Mobile&amp;zone_by=Open source&amp;content_type=select_zones&amp;type_by=技术文章&amp;type_by=教程&amp;search_by=&amp;day=1&amp;month=10&amp;year=2014&amp;max_entries=10&amp;feed_by=rss&amp;ibm-submit=提交" htmlUrl="http://www.ibm.com/developerworks/cn/"/>
+      <outline text="InfoQ" title="InfoQ" type="rss" xmlUrl="http://www.infoq.com/cn/feed?token=4p3vrIGPp9cojzVt6qz2hdqxlpoeX7FW" htmlUrl="http://www.infoq.com/cn/"/>
+      <outline text="youbest" title="youbest" type="rss" xmlUrl="http://home.chinaunix.com/rss.php?uid=436750" htmlUrl="http://home.chinaunix.com/rss.php?uid=436750"/>
+      <outline text="CS Slayer" title="CS Slayer" type="rss" xmlUrl="https://www.csslayer.info/wordpress/feed/" htmlUrl="https://www.csslayer.info/wordpress"/>
+      <outline text="IBM developerWorks 中国 : Linux : Articles,Tutorials" title="IBM developerWorks 中国 : Linux : Articles,Tutorials" type="rss" xmlUrl="http://www.ibm.com/developerworks/cn/views/rss/customrssatom.jsp?zone_by=Linux&amp;type_by=Articles&amp;type_by=Tutorials&amp;search_by=&amp;day=1&amp;month=01&amp;year=2005&amp;max_entries=20&amp;feed_by=rss&amp;isGUI=true&amp;Submit.x=34&amp;Submit.y=9" htmlUrl="http://www.ibm.com/developerworks/cn/"/>
+      <outline text="Linux桌面中文网" title="Linux桌面中文网" type="rss" xmlUrl="http://feed.feedsky.com/ldcn" htmlUrl="http://imtx.me/"/>
+      <outline text="Ubuntu Home" title="Ubuntu Home" type="rss" xmlUrl="http://feed.ubuntuhome.com/" htmlUrl="http://www.ubuntuhome.com/"/>
+      <outline text="新闻 - LUPA开源社区" title="新闻 - LUPA开源社区" type="rss" xmlUrl="http://www.lupaworld.com/myrss.php" htmlUrl="http://www.lupaworld.com/"/>
+      <outline text="IMCN" title="IMCN" type="rss" xmlUrl="http://feed.imcn.me/" htmlUrl="http://imcn.me/"/>
+      <outline text="Wow! Ubuntu" title="Wow! Ubuntu" type="rss" xmlUrl="http://wowubuntu.com/feed" htmlUrl="http://wowubuntu.com/"/>
+      <outline text="Pugs" title="Pugs" type="rss" xmlUrl="http://pugs.blogs.com/pugs/atom.xml" htmlUrl="http://pugs.blogs.com/pugs/"/>
+      <outline text="IBM developerWorks 中国 : 文档库" title="IBM developerWorks 中国 : 文档库" type="rss" xmlUrl="http://www.ibm.com/developerworks/cn/rss/dwcn_dwtp.rss" htmlUrl="http://www.ibm.com/developerworks/cn/"/>
+      <outline text="Solidot" title="Solidot" type="rss" xmlUrl="http://solidot.org.feedsportal.com/c/33236/f/556826/index.rss" htmlUrl="http://www.solidot.org/"/>
+      <outline text="易水博客" title="易水博客" type="rss" xmlUrl="http://easwy.com/blog/feed/" htmlUrl="http://easwy.com/blog"/>
+      <outline text="Linux内核之旅" title="Linux内核之旅" type="rss" xmlUrl="http://www.kerneltravel.net/?feed=rss2" htmlUrl="http://www.kerneltravel.net/"/>
+      <outline text="linux大棚-roclinux.cn" title="linux大棚-roclinux.cn" type="rss" xmlUrl="http://feed.feedsky.com/roclinux" htmlUrl="http://roclinux.cn/"/>
+      <outline text="LinuxTOY" title="LinuxTOY" type="rss" xmlUrl="https://linuxtoy.org/feed" htmlUrl="https://linuxtoy.org/"/>
+      <outline text="我爱正则表达式" title="我爱正则表达式" type="rss" xmlUrl="http://feeds.feedburner.com/iregex" htmlUrl="http://iregex.org/"/>
+      <outline text="OwnLinux.org" title="OwnLinux.org" type="rss" xmlUrl="http://feed.feedsky.com/ownlinux" htmlUrl="http://www.ownlinux.org/"/>
+      <outline text="最新开源周刊列表" title="最新开源周刊列表" type="rss" xmlUrl="http://newsletter.csdn.net/m/news/newsletter/create_rss/10?page=1" htmlUrl="http://newsletter.csdn.net/"/>
+      <outline text="〖好记性不如烂笔头─Ubuntu Note〗" title="〖好记性不如烂笔头─Ubuntu Note〗" type="rss" xmlUrl="http://www.lirui.name/rss.xml" htmlUrl="http://www.lirui.name/"/>
+      <outline text="Code资讯" title="Code资讯" type="rss" xmlUrl="http://code.csdn.net/news/feed/all" htmlUrl="https://code.csdn.net/news"/>
+      <outline text="Joseph Pan" title="Joseph Pan" type="rss" xmlUrl="http://feed.feedsky.com/josephpan" htmlUrl="http://josephpan.net/blog"/>
+      <outline text="当然我在扯淡" title="当然我在扯淡" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1569777711.xml" htmlUrl="http://blog.sina.com.cn/yinwang0"/>
+      <outline text="LVS中文站点 -" title="LVS中文站点 -" type="rss" xmlUrl="http://zh.linuxvirtualserver.org/node/feed" htmlUrl="http://zh.linuxvirtualserver.org/"/>
+      <outline text="LinuxTOY" title="LinuxTOY" type="rss" xmlUrl="http://feeds.feedburner.com/linuxtoy" htmlUrl="https://linuxtoy.org/"/>
+      <outline text="Linux伊甸园开源社区-24小时滚动更新开源资讯，全年无休！" title="Linux伊甸园开源社区-24小时滚动更新开源资讯，全年无休！" type="rss" xmlUrl="http://www.linuxeden.com/rss.php" htmlUrl="http://www.linuxeden.com/"/>
+      <outline text="IMCN" title="IMCN" type="rss" xmlUrl="http://imcn.me/feed" htmlUrl="http://imcn.me/"/>
+      <outline text="Linux Today" title="Linux Today" type="rss" xmlUrl="http://feed.feedsky.com/linuxtoday" htmlUrl="http://www.linuxde.net/"/>
+      <outline text="World Hello" title="World Hello" type="rss" xmlUrl="http://www.worldhello.net/atom.xml" htmlUrl="http://www.worldhello.net/"/>
+      <outline text="（未知标题）" title="（未知标题）" type="rss" xmlUrl="http://feeds.feedburner.com/ossyp" htmlUrl="http://yp.oss.org.cn/"/>
+    </outline>
+    <outline text="Tech&amp;Science" title="Tech&amp;Science">
+      <outline text="fossBytes" title="fossBytes" type="rss" xmlUrl="http://feeds.feedburner.com/Fossbytes" htmlUrl="http://fossbytes.com/"/>
+      <outline text="Popular Science" title="Popular Science" type="rss" xmlUrl="http://www.popsci.com/rss.xml?dom=psc&amp;loc=topstory&amp;lnk=main-feed" htmlUrl="http://www.popsci.com/rss.xml"/>
+      <outline text="Hack A Day" title="Hack A Day" type="rss" xmlUrl="http://www.hackaday.com/rss.xml" htmlUrl="http://hackaday.com/"/>
+      <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="http://feeds.gawker.com/lifehacker/vip" htmlUrl="http://lifehacker.com/"/>
+      <outline text="Wired" title="Wired" type="rss" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="http://www.wired.com/"/>
+      <outline text="Motherboard RSS Feed" title="Motherboard RSS Feed" type="rss" xmlUrl="http://motherboard.vice.com/rss" htmlUrl="http://motherboard.vice.com/"/>
+    </outline>
+    <outline text="EN news1" title="EN news1">
+      <outline text="IBM developerWorks podcasts" title="IBM developerWorks podcasts" type="rss" xmlUrl="http://www.ibm.com/developerworks/podcast/channel-dwall.rss" htmlUrl="http://www.ibm.com/developerworks/podcast/?ca=dwpodcastall"/>
+      <outline text="Latest articles" title="Latest articles" type="rss" xmlUrl="http://thelinuxrain.com/feed" htmlUrl="http://thelinuxrain.com/blog"/>
+      <outline text="Real World Tech" title="Real World Tech" type="rss" xmlUrl="http://www.realworldtech.com/feed/" htmlUrl="http://www.realworldtech.com/"/>
+      <outline text="IBM developerWorks : Linux" title="IBM developerWorks : Linux" type="rss" xmlUrl="http://www.ibm.com/developerworks/views/linux/rss/libraryview.jsp" htmlUrl="http://www.ibm.com/developerworks/"/>
+      <outline text="IBM developerWorks : Open source" title="IBM developerWorks : Open source" type="rss" xmlUrl="http://www.ibm.com/developerworks/views/opensource/rss/libraryview.jsp" htmlUrl="http://www.ibm.com/developerworks/"/>
+      <outline text="Web Upd8 - Ubuntu / Linux blog" title="Web Upd8 - Ubuntu / Linux blog" type="rss" xmlUrl="http://feeds2.feedburner.com/webupd8" htmlUrl="http://www.webupd8.org/"/>
+      <outline text="Linux Journal" title="Linux Journal" type="rss" xmlUrl="http://www.linuxjournal.com/node/feed" htmlUrl="http://www.linuxjournal.com/"/>
+      <outline text="Linux.com - All Content" title="Linux.com - All Content" type="rss" xmlUrl="http://www.linux.com/rss/feeds.php" htmlUrl="http://www.linux.com/feeds/all-content/"/>
+      <outline text="HowtoForge - Linux Howtos and Tutorials -" title="HowtoForge - Linux Howtos and Tutorials -" type="rss" xmlUrl="http://www.howtoforge.com/node/feed" htmlUrl="http://www.howtoforge.com/"/>
+      <outline text="Ars Technica » Disciplines » Open Source" title="Ars Technica » Disciplines » Open Source" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source" htmlUrl="http://arstechnica.com/"/>
+      <outline text="LinuxInsider" title="LinuxInsider" type="rss" xmlUrl="http://www.linuxinsider.com/perl/syndication/rssfull.pl" htmlUrl="http://www.linuxinsider.com/"/>
+      <outline text="Tecmint: Linux Howtos, Tutorials &amp; Guides" title="Tecmint: Linux Howtos, Tutorials &amp; Guides" type="rss" xmlUrl="http://www.tecmint.com/feed/" htmlUrl="http://www.tecmint.com/"/>
+      <outline text="ZDNet | Linux And Open Source Blog RSS" title="ZDNet | Linux And Open Source Blog RSS" type="rss" xmlUrl="http://blogs.zdnet.com/open-source/wp-rss2.php" htmlUrl="http://www.zdnet.com/"/>
+      <outline text="Google Open Source Blog" title="Google Open Source Blog" type="rss" xmlUrl="http://google-opensource.blogspot.com/feeds/posts/default" htmlUrl="http://google-opensource.blogspot.com/"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/"/>
+    </outline>
+  </body>
+</opml>
