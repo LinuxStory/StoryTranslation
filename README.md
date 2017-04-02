@@ -13,7 +13,7 @@ StoryTranslation 是 Linux Story 的站点翻译平台。这里规范了社区�
 3. [一般翻译文章编辑规范手册](./EditorManual.md)
 4. [资讯速递编辑手册](./LinuxStoryDaily.md)
 4. [快资讯编辑手册](./FastNewsEditorManual.md)
-5. [柴米油盐计划编辑手册](.FrosPlanEditorManual.md)
+5. [柴米油盐计划编辑手册](https://github.com/LinuxStory/FrosPlan/blob/master/FrosPlanEditorManual.md)
 6. [运营手册](./SnsOperationGuideline.md)
 7. [运营经验总结](./weibo operation/summary1.0.md)
 8. [Linux Story 翻译术语词典](./Dictionary.md)
@@ -21,8 +21,8 @@ StoryTranslation 是 Linux Story 的站点翻译平台。这里规范了社区�
 10. 想加入我们？想联系我们？往下看。
 
 ## 社区项目
-- [Linux Story 快资讯](https://linuxstory.org/category/headlines/)  
-- [Linux Story 柴米油盐计划](https://linuxstory.org/ls-fros-plan-introduction/)
+- [Linux Story 快资讯](https://github.com/LinuxStory/StoryTranslation/blob/master/FastNewsEditorManual.md)  
+- [Linux Story 柴米油盐计划](https://github.com/LinuxStory/FrosPlan)
 
 ## 加入我们
 我们需要 :
